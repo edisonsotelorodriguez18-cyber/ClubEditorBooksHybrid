@@ -1,0 +1,7 @@
+{
+  "name": "club-editor-books-hybrid",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
